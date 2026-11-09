@@ -1,0 +1,4 @@
+build/
+mac/.build/
+.DS_Store
+*.apk
